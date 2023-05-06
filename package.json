@@ -1,0 +1,19 @@
+{
+  "name": "wy-vue3-vite-basic-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-scope": "^4.0.3",
+    "prettier": "^2.8.8",
+    "vuepress": "^1.9.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "clean": "rimraf node_modules && rimraf pnpm-lock.yaml && pnpm install",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "xinwu",
+  "license": "MIT"
+}
