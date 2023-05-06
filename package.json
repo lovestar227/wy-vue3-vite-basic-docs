@@ -1,5 +1,9 @@
 {
   "name": "wy-vue3-vite-basic-docs",
+  "author": {
+    "name": "xinwu",
+    "email": "2768530278@qq.com"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +18,5 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "xinwu",
   "license": "MIT"
 }
