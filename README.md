@@ -12,4 +12,3 @@
 
 wy-vue3-vite-basic静态文档网站
 
-<h1 align="center">[wy-vue3-vite-basic](https://gitee.com/little-star227/wy-vue3-vite-basic)</h1>
