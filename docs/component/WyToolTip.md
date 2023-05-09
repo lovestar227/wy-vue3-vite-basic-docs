@@ -1,4 +1,4 @@
-# WyToolTip 介绍
+# WyToolTip
 
   自动判断文本是否溢出显示 tooltip 组件
 

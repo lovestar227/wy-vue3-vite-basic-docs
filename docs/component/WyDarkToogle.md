@@ -1,4 +1,4 @@
-# WyDarkToogle
+# WyDarkToogle 明亮/暗黑模式开关
 
 - 明亮/暗黑模式开关
 - 依赖 @vueuse/core 明暗模式切换功能
