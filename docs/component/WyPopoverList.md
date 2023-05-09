@@ -50,4 +50,8 @@
 
 ## 使用方式
 
- 见列表页面
+[列表页面](https://little-star227.gitee.io/wy-vue3-vite-basic/#/list)
+
+## 源代码
+
+[WyPopoverList](https://gitee.com/little-star227/wy-vue3-vite-basic/blob/master/src/components/WyPopoverList/index.vue)

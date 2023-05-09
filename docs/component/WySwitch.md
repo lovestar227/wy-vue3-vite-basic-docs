@@ -55,3 +55,7 @@
       </template>
     </WySwitch>
     ```
+
+## 源代码
+
+[WySwitch](https://gitee.com/little-star227/wy-vue3-vite-basic/blob/master/src/components/WySwitch/index.vue)
