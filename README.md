@@ -1,5 +1,5 @@
 <h1 align="center">wy-vue3-vite-basic-docs</h1>
-
+测试github同步
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 <a href='https://gitee.com/little-star227/wy-vue3-vite-basic-docs/stargazers'><img src='https://gitee.com/little-star227/wy-vue3-vite-basic-docs/badge/star.svg?theme=dark' alt='star'></img></a>
 <a href='https://gitee.com/little-star227/wy-vue3-vite-basic-docs/members'><img src='https://gitee.com/little-star227/wy-vue3-vite-basic-docs/badge/fork.svg?theme=dark' alt='fork'></img></a>
