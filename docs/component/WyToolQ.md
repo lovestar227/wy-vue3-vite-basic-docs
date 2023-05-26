@@ -22,16 +22,16 @@
 - 显示文本内容与 tooltip 内容相同
 
     ```html
-    <WYTooltip :text="title" :style="sidebarTitleStyle"> </WYTooltip>
+    <wy-tooltip :text="title" :style="sidebarTitleStyle"> </-Tooltip>
     ```
 
 - 使用插槽 slot 自定义显示文本内容 和 tootip 内容
 
     ```html
-    <WyToolTip>
+    <wy-tooltip>
       <template #content> {{ title }} </template>
       {{ title }}
-    </WyToolTip>
+    </wy-tooltip>
     ```
 
 ## 源代码

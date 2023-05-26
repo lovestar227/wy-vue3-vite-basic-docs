@@ -39,7 +39,7 @@
 - 第一种 直接根据 API 使用
 
     ```html
-    <WySwitch
+    <wy-switch
       :model-value="isDark"
       @change="changeDark"
       :style="wySwitchStyle"
@@ -53,7 +53,7 @@
         <!-- 太阳图标 -->
         <sunny></sunny>
       </template>
-    </WySwitch>
+    </wy-switch>
     ```
 
 ## 源代码
