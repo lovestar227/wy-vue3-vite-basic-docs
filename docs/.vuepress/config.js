@@ -47,7 +47,7 @@ module.exports = {
         {
           title: "特殊组件",
           collapsable: false,
-          children: ["WyDarkToogle","WyToolTip"],
+          children: ["WyDarkToogle","WyTooltip"],
         },
       ],
       //组件页面
